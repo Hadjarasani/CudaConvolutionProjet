@@ -1,2 +1,4 @@
 # CudaConvolutionProjet
-convolution
+Projet réalisé par :
+SEVERIN DAYAMA
+SANI KAKA HADJARA
